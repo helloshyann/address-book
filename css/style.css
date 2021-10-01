@@ -9,20 +9,21 @@
 
 body {
     font-family: 'ABeeZee', sans-serif;
-    background: #9796f0; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to left, #9796f0, #fbc7d4); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to left, #9796f0, #fbc7d4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #23074d;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #cc5333, #23074d);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #cc5333, #23074d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 
 }
 
 .title {
     color: #f9f9f9;
-    font-family: 'Eczar', serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 3em;
-    text-shadow: 1px 2px #d3d3d3;
+    text-shadow: 1px 2px #23074d;
 }
 
 .btn-default {
     color: #f9f9f9;
-    background-color: #9796f0;
+    background-color: #cc5333;
 }
