@@ -20,7 +20,7 @@
         <div class="container mt-5">
             <h2 class="title d-flex justify-content-center m-3">HELLO, HAROLD?</h2>
             <div class="shadow-lg border border-2 bg-light p-2">
-                <form name="addressEntry" netlify>
+                <form name="addressEntry" netlify data-netlify-recaptcha="true">
                     <div class="row">
                         <!--Image-->
                         <div class="col-12 col-md-4">
@@ -148,6 +148,7 @@
                             <!--Save Button-->
                             <div class="row">
                                 <div class="col">
+                                    <div data-netlify-recaptcha="true"></div>
                                     <button class="btn btn-default float-end" type="submit">SAVE</button>
                                 </div>
                             </div>
