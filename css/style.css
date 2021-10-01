@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=Eczar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
 
 .sticky-nav {
     position: fixed;
@@ -8,7 +8,7 @@
 }
 
 body {
-    font-family: 'ABeeZee', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
     background: #23074d;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to left, #cc5333, #23074d);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to left, #cc5333, #23074d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
@@ -19,7 +19,7 @@ body {
 .title {
     color: #f9f9f9;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 3em;
+    font-size: 5em;
     text-shadow: 1px 2px #23074d;
 }
 
